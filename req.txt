@@ -1,0 +1,9 @@
+django
+djangorestframework
+psycopg2-binary
+djangorestframework-simplejwt
+djnago-cors-headers
+python-decouple
+celery
+redis
+gunicorn
